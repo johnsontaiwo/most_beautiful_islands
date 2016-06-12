@@ -4,8 +4,8 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'most-beautiful-islands-cli-gem/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "most_beautiful_islands_cli_gem"
-  spec.version       = MostBeautifulIslandsCliGem::VERSION
+  spec.name          = "most-beautiful-islands-cli-gem"
+  spec.version       = MostBeautifulIslands::VERSION
   spec.authors       = ["johnsontaiwo"]
   spec.email         = ["josseytee@gmail.com"]
 

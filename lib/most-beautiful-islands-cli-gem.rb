@@ -1,6 +1,6 @@
 #require "most_beautiful_islands_cli_gem/version"
 
-module MostBeautifulIslandsCliGem
+module MostBeautifulIslands
   # Your code goes here...
 end
 

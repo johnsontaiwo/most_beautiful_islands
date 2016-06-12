@@ -1,7 +1,8 @@
 class  MostBeautifulIslands::CLI
   
   def call
-    Hello
+   MostBeautifulIslands::Islands.start
+
   end
 
 end
