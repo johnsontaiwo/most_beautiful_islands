@@ -1,8 +1,6 @@
 # MostBeautifulIslandsCliGem
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/most_beautiful_islands_cli_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This Ruby Gem gives a CLI access to top 16 most beautiful islands in the world according to planetware website.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+After installing the gem, folllow the instructions on the CLI.
 
 ## Development
 
