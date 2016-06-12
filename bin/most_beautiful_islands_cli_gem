@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
-require '../lib/most_beautiful_islands'
+
+require '../lib/most_beautiful_islands_cli_gem'
 
 MostBeautifulIslands::CLI.new.call
