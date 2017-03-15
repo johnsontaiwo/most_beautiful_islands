@@ -25,7 +25,7 @@ Gem::Specification.new do |spec|
   spec.files         = `git ls-files `.split($\)
   spec.bindir        = "exe"
   spec.executables   = ["most-beautiful-islands"]
-  spec.require_paths = ["lib"]-
+  spec.require_paths = ["lib"]
 
   spec.add_development_dependency "bundler", "~> 1.10"
   spec.add_development_dependency "rake", "~> 10.0"
